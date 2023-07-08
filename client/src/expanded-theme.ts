@@ -1,5 +1,5 @@
 
-//eslint-
+// eslint-disable-next-line
 import { PaletteColor } from "@mui/material";
 
 declare module "@mui/material/styles/createPalette" {
